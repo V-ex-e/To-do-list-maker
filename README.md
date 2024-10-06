@@ -11,3 +11,7 @@ Content Generation: It generates RTF content with a standard To-Do list layout, 
 File Creation: It ensures the target directory exists, constructs the full file path, and writes the RTF content to the specified file.
 
 Execution: When run, the script creates the RTF file in the defined directory and confirms the creation.
+
+Automate
+
+![desciptipn](https://github.com/user-attachments/assets/6feee3c6-9d9c-441f-83b7-c06a48eb27fb)
