@@ -14,4 +14,5 @@ Execution: When run, the script creates the RTF file in the defined directory an
 
 Automate
 
-![desciptipn](https://github.com/user-attachments/assets/6feee3c6-9d9c-441f-83b7-c06a48eb27fb)
+
+![desciptipn](https://github.com/user-attachments/assets/c6828d43-c610-49a3-930b-85d5cbe00882)
